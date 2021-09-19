@@ -1,8 +1,7 @@
 # Computer Graphics
 <i> This repository contains programs from Computer Graphics course, S6.</i>
 
-<h3> Index </h3>
-#
+<h2> Index </h2>
 <ol>
   <li>Lab Sheet 1</li>
   <li>Lab Sheet 2</li>
@@ -27,4 +26,5 @@
       </ul>
   </li>
 </ol>
+
 #
